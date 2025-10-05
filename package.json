@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "keywords": ["react", "web", "component"],
-  "author": "Jane Smith",
+  "author": "Jane Doe",
   "license": "MIT"
 }
