@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Thư viện cung cấp công cụ xây dựng trang web",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": ["react", "web", "component"],
   "author": "Jane A. Smith",
   "license": "MIT"
